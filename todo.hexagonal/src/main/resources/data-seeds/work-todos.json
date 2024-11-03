@@ -1,0 +1,12 @@
+[
+  {
+    "_class": "com.caire.carbon.it.todo.hexagonal.infrastructure.persistence.TodoJpaEntity",
+    "title": "Finir les tests dans le todobackend",
+    "completed": false
+  },
+  {
+    "_class": "com.caire.carbon.it.todo.hexagonal.infrastructure.persistence.TodoJpaEntity",
+    "title": "S'entrainer pour les codingames",
+    "completed": true
+  }
+]
